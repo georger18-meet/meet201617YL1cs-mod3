@@ -2,7 +2,7 @@
 import UserAccount
 
 #Three things are missing from the line below - fill them in
-my_user=UserAcount(  ,  ,  )
+my_user=UserAccount( "youik", "12345", "BlahBlahBlah")
 
 #Call the print_secret method (function) - it takes one input - a guess for the password.
 
